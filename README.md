@@ -1,4 +1,4 @@
-# 👤 batmanrizz — Advanced Full Stack Developer Profile
+# 👤 batmanrizz — My profile
 
 Welcome to my profile!  
 I am **batmanrizz**, a passionate full stack developer specializing in building robust web applications, automation tools, and scalable backend systems.
@@ -83,16 +83,11 @@ I am **batmanrizz**, a passionate full stack developer specializing in building 
 ## 📫 Contact
 
 - GitHub: [batmanrizz](https://github.com/batmanrizz)
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- Email: aryamanrizz@gmail.com
+- LinkedIn: [#](https://www.linkedin.com/)
 
 ---
 
-## 🪪 License
-
-This profile and all code samples are released under the [MIT License](LICENSE).
-
----
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="32"/>
