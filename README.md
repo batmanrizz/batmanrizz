@@ -13,9 +13,7 @@ I am **batmanrizz**, a passionate full stack developer specializing in building 
   ![JavaScript](https://img.icons8.com/color/24/000000/javascript--v1.png) JavaScript (basics)  
   ![PHP](https://img.icons8.com/officel/24/000000/php-logo.png) PHP  
   ![Python](https://img.icons8.com/color/24/000000/python--v2.png) Python
-  
   ![C](https://img.icons8.com/color/24/000000/c-programming.png) C
-
   ![MySQL](https://img.icons8.com/fluency/24/000000/mysql-logo.png) MySQL
 
 - **Focus:**  
