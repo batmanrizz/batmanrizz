@@ -7,14 +7,18 @@ I am **batmanrizz**, a passionate full stack developer specializing in building 
 
 ## 🚀 About Me
 
+<p>
+  <img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/officel/32/000000/php-logo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/32/000000/python--v2.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/32/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/fluency/32/000000/mysql-logo.png" alt="MySQL"/>
+</p>
+
 - **Languages:**  
-  ![HTML5](https://img.icons8.com/color/24/000000/html-5.png) HTML  
-  ![CSS3](https://img.icons8.com/color/24/000000/css3.png) CSS  
-  ![JavaScript](https://img.icons8.com/color/24/000000/javascript--v1.png) JavaScript (basics)  
-  ![PHP](https://img.icons8.com/officel/24/000000/php-logo.png) PHP  
-  ![Python](https://img.icons8.com/color/24/000000/python--v2.png) Python
-  ![C](https://img.icons8.com/color/24/000000/c-programming.png) C
-  ![MySQL](https://img.icons8.com/fluency/24/000000/mysql-logo.png) MySQL
+  HTML, CSS, JavaScript (basics), PHP, Python, C, MySQL
 
 - **Focus:**  
   - Full stack web development
@@ -24,20 +28,6 @@ I am **batmanrizz**, a passionate full stack developer specializing in building 
 
 - **Philosophy:**  
   Clean, maintainable code. Security-first mindset. Performance and scalability. Continuous learning.
-
----
-
-## 🧑‍💻 Skills & Technologies
-
-| Area             | Technologies & Tools                                                  |
-|------------------|----------------------------------------------------------------------|
-| Frontend         | HTML5, CSS3, Bootstrap, JavaScript (basics)                          |
-| Backend          | PHP (Core & OOP), Python (automation, bots, scripts), REST APIs      |
-| Databases        | MySQL (design, optimization, queries), phpMyAdmin                    |
-| Automation       | Python scripting, PyAutoGUI, Selenium                                |
-| DevOps/General   | Git, Linux CLI, VS Code, XAMPP/MAMP, Composer, pip                   |
-| Security         | Input validation, SQLi prevention, XSS protection                    |
-| Integration      | OpenAI API (planned), third-party APIs, webhooks                     |
 
 ---
 
@@ -89,13 +79,12 @@ I am **batmanrizz**, a passionate full stack developer specializing in building 
 
 ---
 
-
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="32"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="32"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="32"/>
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="32"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="32"/>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="32"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="32"/>
 </p>
