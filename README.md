@@ -99,4 +99,5 @@ I am **batmanrizz**, a passionate full stack developer specializing in building 
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="32"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="32"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32"/>
 </p>
